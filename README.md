@@ -34,21 +34,23 @@
 
 6.一键生成多文本
 
-基础版本体验小程序：
-<a href="https://imgse.com/i/ppe03b4"><img src="https://s1.ax1x.com/2023/03/08/ppe03b4.jpg" alt="ppe03b4.jpg" border="0" /></a>
+项目演示地址：vx小程序：智能AI聊天工具
 
-chatGPT技术开发交流
-<a href="https://imgse.com/i/ppe0Dqe"><img src="https://s1.ax1x.com/2023/03/08/ppe0Dqe.jpg" alt="ppe0Dqe.jpg" border="0" /></a>
+<a href='https://postimg.cc/Z9mhW6VT' target='_blank'><img src='https://i.postimg.cc/Z9mhW6VT/Wechat-IMG548.jpg' border='0' alt='Wechat-IMG548'/></a>
+
+技术爱好者交流群：
+
+<a href='https://postimg.cc/nCskD5Pk' target='_blank'><img src='https://i.postimg.cc/nCskD5Pk/Wechat-IMG724.jpg' border='0' alt='Wechat-IMG724'/></a>
+
 
 需求定制联系： 微信：youjunqifei
 
-<a href="https://imgse.com/i/ppe0yad"><img src="https://s1.ax1x.com/2023/03/08/ppe0yad.jpg" alt="ppe0yad.jpg" border="0" /></a>
+<a href='https://postimg.cc/6TPVtcpG' target='_blank'><img src='https://i.postimg.cc/6TPVtcpG/Wechat-IMG550.jpg' border='0' alt='Wechat-IMG550'/></a>
+
+-------------------------------------------------
 
 ## 赞助
 
-如果你觉得这个项目对你有帮助，并且情况允许的话，可以给我一点点支持，总之非常感谢支持～
-
-<a href="https://imgse.com/i/ppmatf0"><img src="https://s1.ax1x.com/2023/03/08/ppmatf0.jpg" alt="ppmatf0.jpg" border="0" /></a>
 
 
 
