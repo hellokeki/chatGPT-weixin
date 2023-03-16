@@ -38,7 +38,7 @@
 
 <a href='https://postimg.cc/Z9mhW6VT' target='_blank'><img src='https://i.postimg.cc/Z9mhW6VT/Wechat-IMG548.jpg' border='0' alt='Wechat-IMG548'/></a>
 
-技术爱好者交流群：
+技术爱好者交流群：满了加我拉进去
 
 <a href='https://postimg.cc/nCskD5Pk' target='_blank'><img src='https://i.postimg.cc/nCskD5Pk/Wechat-IMG724.jpg' border='0' alt='Wechat-IMG724'/></a>
 
