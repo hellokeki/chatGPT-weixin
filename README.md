@@ -47,9 +47,7 @@
 
 <a href='https://postimg.cc/6TPVtcpG' target='_blank'><img src='https://i.postimg.cc/6TPVtcpG/Wechat-IMG550.jpg' border='0' alt='Wechat-IMG550'/></a>
 
--------------------------------------------------
 
-## 赞助
 
 
 
